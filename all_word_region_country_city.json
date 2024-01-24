@@ -1,0 +1,1712 @@
+[
+    {
+        "name": "东南亚地区",
+        "children":
+        [
+            {
+                "name": "东南亚地区",
+                "children":
+                [
+                    {
+                        "name": "泰国",
+                        "children":
+                        [
+                            {
+                                "name": "曼谷"
+                            },
+                            {
+                                "name": "芭堤雅"
+                            },
+                            {
+                                "name": "清迈"
+                            },
+                            {
+                                "name": "素叻他尼"
+                            },
+                            {
+                                "name": "马桑"
+                            },
+                            {
+                                "name": "芭堤雅"
+                            },
+                            {
+                                "name": "甲米"
+                            },
+                            {
+                                "name": "北碧"
+                            },
+                            {
+                                "name": "华富里"
+                            },
+                            {
+                                "name": "春武里"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "越南",
+                        "children":
+                        [
+                            {
+                                "name": "河内"
+                            },
+                            {
+                                "name": "胡志明市"
+                            },
+                            {
+                                "name": "岘港"
+                            },
+                            {
+                                "name": "海防"
+                            },
+                            {
+                                "name": "芽庄"
+                            },
+                            {
+                                "name": "岘港"
+                            },
+                            {
+                                "name": "太原"
+                            },
+                            {
+                                "name": "芽庄"
+                            },
+                            {
+                                "name": "永隆"
+                            },
+                            {
+                                "name": "芽庄"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "马来西亚",
+                        "children":
+                        [
+                            {
+                                "name": "吉隆坡"
+                            },
+                            {
+                                "name": "新山"
+                            },
+                            {
+                                "name": "槟城"
+                            },
+                            {
+                                "name": "亚罗士打"
+                            },
+                            {
+                                "name": "古晋"
+                            },
+                            {
+                                "name": "芙蓉"
+                            },
+                            {
+                                "name": "亚庇"
+                            },
+                            {
+                                "name": "新山"
+                            },
+                            {
+                                "name": "马六甲"
+                            },
+                            {
+                                "name": "峇株巴辖"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "新加坡",
+                        "children":
+                        [
+                            {
+                                "name": "新加坡"
+                            },
+                            {
+                                "name": "裕廊东"
+                            },
+                            {
+                                "name": "武吉知马"
+                            },
+                            {
+                                "name": "红山"
+                            },
+                            {
+                                "name": "Sengkang"
+                            },
+                            {
+                                "name": "淡滨尼"
+                            },
+                            {
+                                "name": "holland"
+                            },
+                            {
+                                "name": "Bedok"
+                            },
+                            {
+                                "name": "Tampines"
+                            },
+                            {
+                                "name": "Yishun"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "印度尼西亚",
+                        "children":
+                        [
+                            {
+                                "name": "雅加达"
+                            },
+                            {
+                                "name": "日惹"
+                            },
+                            {
+                                "name": "棉兰"
+                            },
+                            {
+                                "name": "泗水"
+                            },
+                            {
+                                "name": "棉兰"
+                            },
+                            {
+                                "name": "梭罗"
+                            },
+                            {
+                                "name": "巴厘岛"
+                            },
+                            {
+                                "name": "棉兰"
+                            },
+                            {
+                                "name": "坤甸"
+                            },
+                            {
+                                "name": "巨港"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "菲律宾",
+                        "children":
+                        [
+                            {
+                                "name": "马尼拉"
+                            },
+                            {
+                                "name": "达沃市"
+                            },
+                            {
+                                "name": "Caloocan"
+                            },
+                            {
+                                "name": "Quezon"
+                            },
+                            {
+                                "name": "Taguig"
+                            },
+                            {
+                                "name": "Pasig"
+                            },
+                            {
+                                "name": "宿务市"
+                            },
+                            {
+                                "name": "Makati"
+                            },
+                            {
+                                "name": "Las Pinas"
+                            },
+                            {
+                                "name": "Bacolod"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "文莱",
+                        "children":
+                        [
+                            {
+                                "name": "斯里巴加湾市"
+                            },
+                            {
+                                "name": "文莱区"
+                            },
+                            {
+                                "name": "北埔区"
+                            },
+                            {
+                                "name": "petra jaya"
+                            },
+                            {
+                                "name": "Kuala Belait"
+                            },
+                            {
+                                "name": "Muara"
+                            },
+                            {
+                                "name": "Tutong"
+                            },
+                            {
+                                "name": "Bangar"
+                            },
+                            {
+                                "name": "Seria"
+                            },
+                            {
+                                "name": "Lumapas"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "缅甸",
+                        "children":
+                        [
+                            {
+                                "name": "仰光"
+                            },
+                            {
+                                "name": "曼德勒"
+                            },
+                            {
+                                "name": "内比都"
+                            },
+                            {
+                                "name": "蒲甘"
+                            },
+                            {
+                                "name": " Mawlamyaing"
+                            },
+                            {
+                                "name": "Pathein"
+                            },
+                            {
+                                "name": "Bago"
+                            },
+                            {
+                                "name": "Kyaukpyu"
+                            },
+                            {
+                                "name": "Myitkyina"
+                            },
+                            {
+                                "name": "Sittwe"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "老挝",
+                        "children":
+                        [
+                            {
+                                "name": "万象"
+                            },
+                            {
+                                "name": "琅勃拉邦"
+                            },
+                            {
+                                "name": "Pakxe"
+                            },
+                            {
+                                "name": "Savannakhet"
+                            },
+                            {
+                                "name": "Luang Prabang"
+                            },
+                            {
+                                "name": "Xiengkhuang"
+                            },
+                            {
+                                "name": "Phonsavan"
+                            },
+                            {
+                                "name": "Vangviene"
+                            },
+                            {
+                                "name": "Thakhek"
+                            },
+                            {
+                                "name": "Muang Xay"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "柬埔寨",
+                        "children":
+                        [
+                            {
+                                "name": "金边"
+                            },
+                            {
+                                "name": "暹粒"
+                            },
+                            {
+                                "name": "贡布"
+                            },
+                            {
+                                "name": "马德望省"
+                            },
+                            {
+                                "name": "磅清扬"
+                            },
+                            {
+                                "name": "Poipet"
+                            },
+                            {
+                                "name": "磅湛"
+                            },
+                            {
+                                "name": "暹粒"
+                            },
+                            {
+                                "name": "Kampot"
+                            },
+                            {
+                                "name": "宾才可"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "东帝汶",
+                        "children":
+                        [
+                            {
+                                "name": "帝力"
+                            },
+                            {
+                                "name": " 格林纳达"
+                            },
+                            {
+                                "name": "阿伊泰"
+                            },
+                            {
+                                "name": "马纳图托"
+                            },
+                            {
+                                "name": "圣地亚哥"
+                            },
+                            {
+                                "name": "Latolu"
+                            },
+                            {
+                                "name": "帝力"
+                            },
+                            {
+                                "name": "亚乔尔"
+                            },
+                            {
+                                "name": " MALINA"
+                            },
+                            {
+                                "name": "Same"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "中东&非洲地区",
+        "children":
+        [
+            {
+                "name": "土耳其",
+                "children":
+                [
+                    {
+                        "name": "伊斯坦布尔"
+                    },
+                    {
+                        "name": "安卡拉"
+                    },
+                    {
+                        "name": "伊兹密尔"
+                    },
+                    {
+                        "name": "布尔萨"
+                    },
+                    {
+                        "name": "安塔利亚"
+                    }
+                ]
+            },
+            {
+                "name": "沙特阿拉伯",
+                "children":
+                [
+                    {
+                        "name": "利雅得"
+                    },
+                    {
+                        "name": "吉达"
+                    },
+                    {
+                        "name": "麦加"
+                    },
+                    {
+                        "name": "麦地那"
+                    },
+                    {
+                        "name": "东部省"
+                    }
+                ]
+            },
+            {
+                "name": "阿拉伯联合酋长国",
+                "children":
+                [
+                    {
+                        "name": "迪拜"
+                    },
+                    {
+                        "name": "阿布扎比"
+                    },
+                    {
+                        "name": "沙迦"
+                    },
+                    {
+                        "name": "拉斯海玛"
+                    },
+                    {
+                        "name": "阿治曼"
+                    }
+                ]
+            },
+            {
+                "name": "以色列",
+                "children":
+                [
+                    {
+                        "name": "特拉维夫"
+                    },
+                    {
+                        "name": "耶路撒冷"
+                    },
+                    {
+                        "name": "海法"
+                    },
+                    {
+                        "name": "内坦亚"
+                    },
+                    {
+                        "name": "特拉维夫"
+                    }
+                ]
+            },
+            {
+                "name": "伊朗",
+                "children":
+                [
+                    {
+                        "name": "德黑兰"
+                    },
+                    {
+                        "name": "伊斯法罕"
+                    },
+                    {
+                        "name": "马什哈德"
+                    },
+                    {
+                        "name": "Tabriz"
+                    },
+                    {
+                        "name": "Shiraz"
+                    }
+                ]
+            },
+            {
+                "name": "伊拉克",
+                "children":
+                [
+                    {
+                        "name": "巴格达"
+                    },
+                    {
+                        "name": "巴士拉"
+                    },
+                    {
+                        "name": "艾比尔"
+                    },
+                    {
+                        "name": "苏莱曼尼亚"
+                    },
+                    {
+                        "name": "杜胡克"
+                    }
+                ]
+            },
+            {
+                "name": "叙利亚",
+                "children":
+                [
+                    {
+                        "name": "大马士革"
+                    },
+                    {
+                        "name": "阿勒颇"
+                    },
+                    {
+                        "name": "霍姆斯"
+                    },
+                    {
+                        "name": "哈马"
+                    },
+                    {
+                        "name": "拉卡"
+                    }
+                ]
+            },
+            {
+                "name": "黎巴嫩",
+                "children":
+                [
+                    {
+                        "name": "贝鲁特"
+                    },
+                    {
+                        "name": "的黎波里"
+                    },
+                    {
+                        "name": "泰尔"
+                    },
+                    {
+                        "name": "赞根"
+                    },
+                    {
+                        "name": "西顿"
+                    }
+                ]
+            },
+            {
+                "name": "约旦",
+                "children":
+                [
+                    {
+                        "name": "安曼"
+                    },
+                    {
+                        "name": "伊尔比德"
+                    },
+                    {
+                        "name": "扎尔卡"
+                    },
+                    {
+                        "name": "马安"
+                    },
+                    {
+                        "name": "马夫拉克"
+                    }
+                ]
+            },
+            {
+                "name": "巴林",
+                "children":
+                [
+                    {
+                        "name": "麦纳麦"
+                    },
+                    {
+                        "name": "穆哈拉格"
+                    },
+                    {
+                        "name": "利提夫"
+                    },
+                    {
+                        "name": "哈马德"
+                    },
+                    {
+                        "name": "Sitra"
+                    }
+                ]
+            },
+            {
+                "name": "科威特",
+                "children":
+                [
+                    {
+                        "name": "科威特城"
+                    },
+                    {
+                        "name": "霍尔穆拉"
+                    },
+                    {
+                        "name": "Jahra"
+                    },
+                    {
+                        "name": "萨卜里亚"
+                    },
+                    {
+                        "name": "Fahaheel"
+                    }
+                ]
+            },
+            {
+                "name": "卡塔尔",
+                "children":
+                [
+                    {
+                        "name": "多哈"
+                    },
+                    {
+                        "name": "努瓦西里"
+                    },
+                    {
+                        "name": "Al Wakrah"
+                    },
+                    {
+                        "name": "Umm Salal"
+                    },
+                    {
+                        "name": "Al Rayyan"
+                    }
+                ]
+            },
+            {
+                "name": "阿曼",
+                "children":
+                [
+                    {
+                        "name": "马斯喀特"
+                    },
+                    {
+                        "name": "萨拉莱"
+                    },
+                    {
+                        "name": "苏哈尔"
+                    },
+                    {
+                        "name": "Барка"
+                    },
+                    {
+                        "name": "Izki"
+                    }
+                ]
+            },
+            {
+                "name": "也门",
+                "children":
+                [
+                    {
+                        "name": "萨那"
+                    },
+                    {
+                        "name": "亚丁"
+                    },
+                    {
+                        "name": "塔伊兹"
+                    },
+                    {
+                        "name": "霍代达"
+                    },
+                    {
+                        "name": "伊布"
+                    }
+                ]
+            },
+            {
+                "name": "巴勒斯坦",
+                "children":
+                [
+                    {
+                        "name": "加沙"
+                    },
+                    {
+                        "name": "内布卢斯"
+                    },
+                    {
+                        "name": "拉马拉"
+                    },
+                    {
+                        "name": "大迈"
+                    },
+                    {
+                        "name": "赫布伦"
+                    }
+                ]
+            },
+            {
+                "name": "南非",
+                "children":
+                [
+                    {
+                        "name": "开普敦"
+                    },
+                    {
+                        "name": "约翰内斯堡"
+                    },
+                    {
+                        "name": "德班"
+                    }
+                ]
+            },
+            {
+                "name": "尼日利亚",
+                "children":
+                [
+                    {
+                        "name": "拉各斯"
+                    },
+                    {
+                        "name": "卡诺"
+                    },
+                    {
+                        "name": "伊巴丹"
+                    }
+                ]
+            },
+            {
+                "name": "埃及",
+                "children":
+                [
+                    {
+                        "name": "开罗"
+                    },
+                    {
+                        "name": "亚历山大"
+                    },
+                    {
+                        "name": "吉萨"
+                    }
+                ]
+            },
+            {
+                "name": "埃塞俄比亚",
+                "children":
+                [
+                    {
+                        "name": "亚的斯亚贝巴"
+                    },
+                    {
+                        "name": "迪雷达瓦"
+                    },
+                    {
+                        "name": "贡德尔"
+                    }
+                ]
+            },
+            {
+                "name": "坦桑尼亚",
+                "children":
+                [
+                    {
+                        "name": "达累斯萨拉姆"
+                    },
+                    {
+                        "name": "三褂港"
+                    },
+                    {
+                        "name": "姆贝亚"
+                    }
+                ]
+            },
+            {
+                "name": "肯尼亚",
+                "children":
+                [
+                    {
+                        "name": "内罗毕"
+                    },
+                    {
+                        "name": "蒙巴萨"
+                    },
+                    {
+                        "name": "基苏木"
+                    }
+                ]
+            },
+            {
+                "name": "莫桑比克",
+                "children":
+                [
+                    {
+                        "name": "马普托"
+                    },
+                    {
+                        "name": "马塔拉"
+                    },
+                    {
+                        "name": "贝拉"
+                    }
+                ]
+            },
+            {
+                "name": "安哥拉",
+                "children":
+                [
+                    {
+                        "name": "罗安达"
+                    },
+                    {
+                        "name": "Huambo"
+                    },
+                    {
+                        "name": "Lubango"
+                    }
+                ]
+            },
+            {
+                "name": "苏丹",
+                "children":
+                [
+                    {
+                        "name": "喀土穆"
+                    },
+                    {
+                        "name": "奥姆杜尔曼"
+                    },
+                    {
+                        "name": "Port Sudan"
+                    }
+                ]
+            },
+            {
+                "name": "阿尔及利亚",
+                "children":
+                [
+                    {
+                        "name": "阿尔及尔"
+                    },
+                    {
+                        "name": "瓦尔格拉"
+                    },
+                    {
+                        "name": "Constants"
+                    }
+                ]
+            },
+            {
+                "name": "利比亚",
+                "children":
+                [
+                    {
+                        "name": "的黎波里"
+                    },
+                    {
+                        "name": "班加西"
+                    },
+                    {
+                        "name": "米苏拉塔"
+                    }
+                ]
+            },
+            {
+                "name": "索马里",
+                "children":
+                [
+                    {
+                        "name": "摩加迪沙"
+                    },
+                    {
+                        "name": "Hargeysa"
+                    },
+                    {
+                        "name": "Kismayo"
+                    }
+                ]
+            },
+            {
+                "name": "乌干达",
+                "children":
+                [
+                    {
+                        "name": "坎帕拉"
+                    },
+                    {
+                        "name": "Gulu"
+                    },
+                    {
+                        "name": "Jinja"
+                    }
+                ]
+            },
+            {
+                "name": "马拉维",
+                "children":
+                [
+                    {
+                        "name": "利隆圭"
+                    },
+                    {
+                        "name": "布兰太尔"
+                    },
+                    {
+                        "name": "姆祖兹"
+                    }
+                ]
+            },
+            {
+                "name": "赞比亚",
+                "children":
+                [
+                    {
+                        "name": "卢萨卡"
+                    },
+                    {
+                        "name": "Kitwe"
+                    },
+                    {
+                        "name": "Ndola"
+                    }
+                ]
+            },
+            {
+                "name": "津巴布韦",
+                "children":
+                [
+                    {
+                        "name": "哈拉雷"
+                    },
+                    {
+                        "name": "布拉威约"
+                    },
+                    {
+                        "name": "Mutare"
+                    }
+                ]
+            },
+            {
+                "name": "纳米比亚",
+                "children":
+                [
+                    {
+                        "name": "温得和克"
+                    },
+                    {
+                        "name": "奥休科诺戈"
+                    },
+                    {
+                        "name": " Walvis Bay"
+                    }
+                ]
+            },
+            {
+                "name": "博茨瓦纳",
+                "children":
+                [
+                    {
+                        "name": "哈博罗内"
+                    },
+                    {
+                        "name": "弗朗西斯敦"
+                    },
+                    {
+                        "name": "塞莱比-皮克韦"
+                    }
+                ]
+            },
+            {
+                "name": "加纳",
+                "children":
+                [
+                    {
+                        "name": "阿克拉"
+                    },
+                    {
+                        "name": "库马西"
+                    },
+                    {
+                        "name": "Tema"
+                    }
+                ]
+            },
+            {
+                "name": "科特迪瓦",
+                "children":
+                [
+                    {
+                        "name": "阿必尚"
+                    },
+                    {
+                        "name": "布瓦凯"
+                    },
+                    {
+                        "name": "达拉"
+                    }
+                ]
+            },
+            {
+                "name": "喀麦隆",
+                "children":
+                [
+                    {
+                        "name": "雅温得"
+                    },
+                    {
+                        "name": "杜阿拉"
+                    },
+                    {
+                        "name": "Garoua"
+                    }
+                ]
+            },
+            {
+                "name": "刚果民主共和国",
+                "children":
+                [
+                    {
+                        "name": "金沙萨"
+                    },
+                    {
+                        "name": "卢本巴希"
+                    },
+                    {
+                        "name": "姆布吉马伊"
+                    }
+                ]
+            },
+            {
+                "name": "毛里塔尼亚",
+                "children":
+                [
+                    {
+                        "name": "努瓦克肖特"
+                    },
+                    {
+                        "name": "努瓦迪布"
+                    },
+                    {
+                        "name": "罗索"
+                    }
+                ]
+            },
+            {
+                "name": "布基纳法索",
+                "children":
+                [
+                    {
+                        "name": "瓦加杜古"
+                    },
+                    {
+                        "name": "博博迪乌拉索"
+                    },
+                    {
+                        "name": "Bobo Dioulasso"
+                    }
+                ]
+            },
+            {
+                "name": "马里",
+                "children":
+                [
+                    {
+                        "name": "巴马科"
+                    },
+                    {
+                        "name": "塞古"
+                    },
+                    {
+                        "name": "莫普提"
+                    }
+                ]
+            },
+            {
+                "name": "尼日尔",
+                "children":
+                [
+                    {
+                        "name": "尼亚美"
+                    },
+                    {
+                        "name": "马拉迪"
+                    },
+                    {
+                        "name": "津德尔"
+                    }
+                ]
+            },
+            {
+                "name": "查德",
+                "children":
+                [
+                    {
+                        "name": "恩贾梅纳"
+                    },
+                    {
+                        "name": "Moundou"
+                    },
+                    {
+                        "name": "Sarh"
+                    }
+                ]
+            },
+            {
+                "name": "苏丹",
+                "children":
+                [
+                    {
+                        "name": "喀土穆"
+                    },
+                    {
+                        "name": "奥姆杜尔曼"
+                    },
+                    {
+                        "name": "Port Sudan"
+                    }
+                ]
+            },
+            {
+                "name": "几内亚",
+                "children":
+                [
+                    {
+                        "name": "科纳克里"
+                    },
+                    {
+                        "name": "金澳"
+                    },
+                    {
+                        "name": "基西杜古"
+                    }
+                ]
+            },
+            {
+                "name": "利比里亚",
+                "children":
+                [
+                    {
+                        "name": "蒙罗维亚"
+                    },
+                    {
+                        "name": "Paynesville"
+                    },
+                    {
+                        "name": "Ganta"
+                    }
+                ]
+            },
+            {
+                "name": "多哥",
+                "children":
+                [
+                    {
+                        "name": "洛美"
+                    },
+                    {
+                        "name": "斯琴西"
+                    },
+                    {
+                        "name": "卡拉"
+                    }
+                ]
+            },
+            {
+                "name": "贝宁",
+                "children":
+                [
+                    {
+                        "name": "波多诺伏"
+                    },
+                    {
+                        "name": "科托努"
+                    },
+                    {
+                        "name": "帕拉库"
+                    }
+                ]
+            },
+            {
+                "name": "塞拉利昂",
+                "children":
+                [
+                    {
+                        "name": "弗里敦"
+                    },
+                    {
+                        "name": "布瓦"
+                    },
+                    {
+                        "name": "Kenema"
+                    }
+                ]
+            },
+            {
+                "name": "加纳",
+                "children":
+                [
+                    {
+                        "name": "阿克拉"
+                    },
+                    {
+                        "name": "库马西"
+                    },
+                    {
+                        "name": "Tema"
+                    }
+                ]
+            },
+            {
+                "name": "厄立特里亚",
+                "children":
+                [
+                    {
+                        "name": "阿斯马拉"
+                    },
+                    {
+                        "name": "卡伦"
+                    },
+                    {
+                        "name": "马萨瓦"
+                    }
+                ]
+            },
+            {
+                "name": "吉布提",
+                "children":
+                [
+                    {
+                        "name": "吉布提城"
+                    },
+                    {
+                        "name": "泰阿达尔"
+                    },
+                    {
+                        "name": "奥博克"
+                    }
+                ]
+            },
+            {
+                "name": "埃塞俄比亚",
+                "children":
+                [
+                    {
+                        "name": "亚的斯亚贝巴"
+                    },
+                    {
+                        "name": "迪雷达瓦"
+                    },
+                    {
+                        "name": "贡德尔"
+                    }
+                ]
+            },
+            {
+                "name": "留尼旺",
+                "children":
+                [
+                    {
+                        "name": "圣德尼"
+                    },
+                    {
+                        "name": "圣皮埃尔"
+                    },
+                    {
+                        "name": "圣保罗"
+                    }
+                ]
+            },
+            {
+                "name": "布隆迪",
+                "children":
+                [
+                    {
+                        "name": "布琼布拉"
+                    },
+                    {
+                        "name": "恩戈齐"
+                    },
+                    {
+                        "name": "姆扎纳"
+                    }
+                ]
+            },
+            {
+                "name": "圣多美和普林西比",
+                "children":
+                [
+                    {
+                        "name": "圣多美"
+                    },
+                    {
+                        "name": "桑塔纳"
+                    },
+                    {
+                        "name": "尼亚科罗"
+                    }
+                ]
+            },
+            {
+                "name": "冈比亚",
+                "children":
+                [
+                    {
+                        "name": "班珠尔"
+                    },
+                    {
+                        "name": "大桥"
+                    },
+                    {
+                        "name": "马赫拉"
+                    }
+                ]
+            },
+            {
+                "name": "几内亚比绍",
+                "children":
+                [
+                    {
+                        "name": "比绍"
+                    },
+                    {
+                        "name": "Gabu"
+                    },
+                    {
+                        "name": "Canchungo"
+                    }
+                ]
+            },
+            {
+                "name": "佛得角",
+                "children":
+                [
+                    {
+                        "name": "普拉亚"
+                    },
+                    {
+                        "name": "埃斯普拉瓦圣地亚哥"
+                    },
+                    {
+                        "name": "圣维森特"
+                    }
+                ]
+            },
+            {
+                "name": "塞内加尔",
+                "children":
+                [
+                    {
+                        "name": "达喀尔"
+                    },
+                    {
+                        "name": "图巴"
+                    },
+                    {
+                        "name": "卡奥尔"
+                    }
+                ]
+            },
+            {
+                "name": "毛里itania",
+                "children":
+                [
+                    {
+                        "name": "努瓦克肖特"
+                    },
+                    {
+                        "name": "努瓦迪布"
+                    },
+                    {
+                        "name": "罗索"
+                    }
+                ]
+            },
+            {
+                "name": "赤道几内亚",
+                "children":
+                [
+                    {
+                        "name": "马拉博"
+                    },
+                    {
+                        "name": "Bata"
+                    },
+                    {
+                        "name": "Ebebiyin"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "拉美地区",
+        "children":
+        [
+            {
+                "name": "巴西",
+                "children":
+                [
+                    {
+                        "name": "圣保罗"
+                    },
+                    {
+                        "name": "里约热内卢"
+                    },
+                    {
+                        "name": "巴西利亚"
+                    }
+                ]
+            },
+            {
+                "name": "墨西哥",
+                "children":
+                [
+                    {
+                        "name": "墨西哥城"
+                    },
+                    {
+                        "name": "瓜达拉哈拉"
+                    },
+                    {
+                        "name": "蒙特雷"
+                    }
+                ]
+            },
+            {
+                "name": "哥伦比亚",
+                "children":
+                [
+                    {
+                        "name": "波哥大"
+                    },
+                    {
+                        "name": "麦德林"
+                    },
+                    {
+                        "name": "卡利"
+                    }
+                ]
+            },
+            {
+                "name": "阿根廷",
+                "children":
+                [
+                    {
+                        "name": "布宜诺斯艾利斯"
+                    },
+                    {
+                        "name": "科尔多瓦"
+                    },
+                    {
+                        "name": "罗萨里奥"
+                    }
+                ]
+            },
+            {
+                "name": "秘鲁",
+                "children":
+                [
+                    {
+                        "name": "利马"
+                    },
+                    {
+                        "name": "阿雷基帕"
+                    },
+                    {
+                        "name": "特鲁希略"
+                    }
+                ]
+            },
+            {
+                "name": "委内瑞拉",
+                "children":
+                [
+                    {
+                        "name": "加拉加斯"
+                    },
+                    {
+                        "name": "马拉开波"
+                    },
+                    {
+                        "name": "马拉卡伊"
+                    }
+                ]
+            },
+            {
+                "name": "智利",
+                "children":
+                [
+                    {
+                        "name": "圣地亚哥"
+                    },
+                    {
+                        "name": "瓦尔帕莱索"
+                    },
+                    {
+                        "name": "康塞普西翁"
+                    }
+                ]
+            },
+            {
+                "name": "厄瓜多尔",
+                "children":
+                [
+                    {
+                        "name": "基多"
+                    },
+                    {
+                        "name": "瓜亚基尔"
+                    },
+                    {
+                        "name": "昆卡"
+                    }
+                ]
+            },
+            {
+                "name": "危地马拉",
+                "children":
+                [
+                    {
+                        "name": "危地马拉城"
+                    },
+                    {
+                        "name": "蒂克尔"
+                    },
+                    {
+                        "name": "奎查尔特南戈"
+                    }
+                ]
+            },
+            {
+                "name": "多米尼加",
+                "children":
+                [
+                    {
+                        "name": "圣多明哥"
+                    },
+                    {
+                        "name": "圣地亚哥省"
+                    },
+                    {
+                        "name": "圣克里斯多堡"
+                    }
+                ]
+            },
+            {
+                "name": "海地",
+                "children":
+                [
+                    {
+                        "name": "太子港"
+                    },
+                    {
+                        "name": "海地角"
+                    },
+                    {
+                        "name": "戈纳伊夫"
+                    }
+                ]
+            },
+            {
+                "name": "洪都拉斯",
+                "children":
+                [
+                    {
+                        "name": "特古西加尔巴"
+                    },
+                    {
+                        "name": "圣佩德罗苏拉"
+                    },
+                    {
+                        "name": "拉塞瓦"
+                    }
+                ]
+            },
+            {
+                "name": "尼加拉瓜",
+                "children":
+                [
+                    {
+                        "name": "马那瓜"
+                    },
+                    {
+                        "name": "莱昂"
+                    },
+                    {
+                        "name": "马萨亚"
+                    }
+                ]
+            },
+            {
+                "name": "巴拿马",
+                "children":
+                [
+                    {
+                        "name": "巴拿马城"
+                    },
+                    {
+                        "name": "Colon"
+                    },
+                    {
+                        "name": "大港口"
+                    }
+                ]
+            },
+            {
+                "name": "哥斯达黎加",
+                "children":
+                [
+                    {
+                        "name": "圣何塞"
+                    },
+                    {
+                        "name": "阿拉胡埃拉"
+                    },
+                    {
+                        "name": "卡塔戈"
+                    }
+                ]
+            },
+            {
+                "name": "乌拉圭",
+                "children":
+                [
+                    {
+                        "name": "蒙特维多"
+                    },
+                    {
+                        "name": "萨尔托"
+                    },
+                    {
+                        "name": "巴拉圭德洛斯托雷斯"
+                    }
+                ]
+            },
+            {
+                "name": "巴拉圭",
+                "children":
+                [
+                    {
+                        "name": "亚松森"
+                    },
+                    {
+                        "name": "恩卡纳西翁"
+                    },
+                    {
+                        "name": "圣地亚哥德尔埃斯泰罗"
+                    }
+                ]
+            },
+            {
+                "name": "玻利维亚",
+                "children":
+                [
+                    {
+                        "name": "拉巴斯"
+                    },
+                    {
+                        "name": "圣克鲁斯"
+                    },
+                    {
+                        "name": "科恰班巴"
+                    }
+                ]
+            },
+            {
+                "name": "古巴",
+                "children":
+                [
+                    {
+                        "name": "哈瓦那"
+                    },
+                    {
+                        "name": "圣地亚哥德古巴"
+                    },
+                    {
+                        "name": "卡马圭"
+                    }
+                ]
+            }
+        ]
+    }
+]
